@@ -1,7 +1,7 @@
 spotify-scripts
 ====================
 
-A collection of scipts for creating spotify playlists.
+A collection of scripts for creating spotify playlists.
 
 Requires 'spotify-api-server' - https://github.com/liesen/spotify-api-server for manipulating playlists.
 
